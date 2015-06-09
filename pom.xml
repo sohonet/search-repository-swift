@@ -10,7 +10,7 @@
 
     <groupId>org.wikimedia.elasticsearch.swift</groupId>
     <artifactId>swift-repository-plugin</artifactId>
-    <version>0.8-SNAPSHOT</version>
+    <version>1.6.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>SwiftRepositoryPlugin</name>
     <description>Repository plugin for Elasticsearch backed by Swift</description>
@@ -37,7 +37,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <elasticsearch.version>1.4.0</elasticsearch.version>
+        <elasticsearch.version>1.6.0</elasticsearch.version>
     </properties>
 
     <dependencies>

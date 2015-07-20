@@ -9,9 +9,10 @@ In order to install the plugin, simply run: `bin/plugin -install org.wikimedia.e
 | 0.6                         | 1.3.2                 | 2014-08-20   |
 | 0.7                         | 1.4.0                 | 2014-11-07   |
 | 1.6.0                       | 1.6.0                 | 2015-06-09   |
+| 1.7.0                       | 1.7.0                 | 2015-07-20   |
 
-Versions 0.4, 0.6, 0.7, and 1.6.0 should be used. The in-between releases were
-buggy and are not recommended.
+Only the versions in the table above should be used. The in-between releases
+were buggy and are not recommended.
 
 ## Create Repository
 ```
